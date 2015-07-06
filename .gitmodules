@@ -1,3 +1,0 @@
-[submodule "app/Plugin/cakephp-environments"]
-	path = app/Plugin/cakephp-environments
-	url = https://github.com/josegonzalez/cakephp-environments.git
