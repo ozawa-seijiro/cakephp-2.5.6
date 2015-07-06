@@ -65,7 +65,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
+		'datasource' => 'Database/Postgres',
 		'persistent' => false,
 		'host' => 'ec2-54-204-27-193.compute-1.amazonaws.com',
 		'login' => '2CngudHFS7pJmeFdRtELLg_y67',
